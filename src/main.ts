@@ -33,3 +33,6 @@ wqRequest.request({
 //   url: '/home/multidata',
 //   method: 'GET'
 // })
+
+// 测试基于dev分支创建新分支，并提交到github
+console.log('测试基于dev分支创建新分支，并提交到github')
